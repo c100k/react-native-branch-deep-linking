@@ -1,4 +1,4 @@
 {
-    "delayInitToCheckForSearchAds": true,
-    "deferInitializationForJSLoad": true
+  "delayInitToCheckForSearchAds": true,
+  "deferInitializationForJSLoad": true
 }
