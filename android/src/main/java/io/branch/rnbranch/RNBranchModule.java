@@ -247,13 +247,13 @@ public class RNBranchModule extends ReactContextBaseJavaModule {
 
         // Constants for use with userCompletedAction (deprecated)
 
-        constants.put(ADD_TO_CART_EVENT, BranchEvent.ADD_TO_CART);
+        /*constants.put(ADD_TO_CART_EVENT, BranchEvent.ADD_TO_CART);
         constants.put(ADD_TO_WISHLIST_EVENT, BranchEvent.ADD_TO_WISH_LIST);
         constants.put(PURCHASED_EVENT, BranchEvent.PURCHASED);
         constants.put(PURCHASE_INITIATED_EVENT, BranchEvent.PURCHASE_STARTED);
         constants.put(REGISTER_VIEW_EVENT, BranchEvent.VIEW);
         constants.put(SHARE_COMPLETED_EVENT, BranchEvent.SHARE_COMPLETED);
-        constants.put(SHARE_INITIATED_EVENT, BranchEvent.SHARE_STARTED);
+        constants.put(SHARE_INITIATED_EVENT, BranchEvent.SHARE_STARTED);*/
 
         // constants for use with BranchEvent
 
